@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "925617305719",
+    "firebase_url": "https://apptunix-chat-default-rtdb.firebaseio.com",
+    "project_id": "apptunix-chat",
+    "storage_bucket": "apptunix-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925617305719:android:3f3c0f2d07b40b6bafee72",
+        "android_client_info": {
+          "package_name": "com.example.chatapptask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7xdCvAEljONqpOOtk0HSP1uo9ahNKjp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
